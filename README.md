@@ -21,7 +21,7 @@ This wil also include analysis of the entire crawler process i.e
 # Install Dependencies
 - conda activate your_virtual_environment
 - cd to the directory where requirements.txt is located
-- pip install-r requirements.txt
+- pip install -r requirements.txt
 
 # Run The Scraper
 - scrapy list ( to find out the all available spiders)
