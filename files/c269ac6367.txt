@@ -1,0 +1,219 @@
+URL: https://franchisesuppliernetwork.com/fsn-members/add-content/?post_id=3798
+
+----------------------------------------------------------------------------------------------------
+
+Franchise Supplier Network
+Add Content - Franchise Supplier Network
+My Account
+My Profile
+Logout
+My Account
+My Profile
+Logout
+Submit Content
+Edit Profile
+Brand Lists
+Supplier Bootcamp
+Sponsorships
+Team Members
+SUBMIT A
+BLOG, BYLINE, OR THOUGHT LEADERSHIP ARTICLE
+Share your industry expertise, product development highlights, and brand bylines.
+SUBMIT A
+RECENT DEAL OR BRAND WIN
+When you have a big win, we want to know about it! Share when you sign a big contract or hit a major milestone.
+SUBMIT A
+CASE STUDY FROM A TOP CUSTOMER
+Help us sell you by submitting case studies that showcase your happy clients and what you do best.
+Blog
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<div class="min-h-[20px] flex flex-col items-start gap-3 overflow-x-auto whitespace-pre-wrap break-words">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+
+Franchise Supplier Network is committed to enhancing the franchisor experience, serving as your dedicated partner. Our primary objective is to help franchisors find the perfect supplier partners while mitigating risks. Whether your franchise organization is emerging, regional, or national, we diligently connect businesses with their ideal suppliers.
+
+But don't just take it from us! We asked franchise brands to <a href="https://franchisesuppliernetwork.com/fsn-supplier-awards/" target="_blank" rel="noopener">share testimonials about FSN Supplier Members</a>, and here's what they had to say:
+
+</div>
+</div>
+<h3><a href="https://franchisesuppliernetwork.com/featured-supplier/suttle-straus/" target="_blank" rel="noopener"><em><strong>Suttle-Straus</strong></em></a></h3>
+<p data-pm-slice="1 1 []"><em>“We launched the Suttle-Straus portal for our franchise system this year and I have been blown away by their partnership and commitment to customer service. They have gone above and beyond to take care of our franchisees with compassion, integrity, and incredible communication. I could not be more thankful for their support and continued partnership as our company expands.” - </em><em><strong>April Hicks, Prime IV Hydration &amp; Wellness</strong></em></p>
+
+<h3><a href="https://franchisesuppliernetwork.com/featured-supplier/clienttether/" target="_blank" rel="noopener"><i>ClientTether</i></a></h3>
+<em>“Great support; constant innovation; moved lead conversion from 9% to 24% in less than 9 months; always putting us as a customer first!" - </em><em><strong>Joel Chochren, Neca</strong></em>
+<h3><a href="https://franchisesuppliernetwork.com/featured-supplier/serviceminder/" target="_blank" rel="noopener"><i>serviceminder</i></a></h3>
+<em>“Serviceminder was and continues to be a one of our most important vendors we have. Their CRM system has helped our system understand our business more than we have in the past. They have provided more training than we could have ever have hoped for! One of the best decision we ever made a s brand!" - </em><em><strong>Al Winnick, Green Home Solutions</strong></em>
+<h3><a href="https://franchisesuppliernetwork.com/featured-supplier/orchatect/" target="_blank" rel="noopener"><i>Orchatect</i></a></h3>
+<em>“Orchatect has truly been a game-changer for us. Their team has diligently navigated the intricacies of our one-of-a-kind system, and the results have been nothing short of astonishing. They've expertly fine-tuned and optimized our operations in countless ways, making our processes more efficient and effective than we could have ever imagined." - </em><em><strong>Yolanda Stevenson, Taxi Mom Franchising LLC</strong></em>
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/map-ranks/" target="_blank" rel="noopener">Map Ranks</a></em></h3>
+<em>“We have worked with the Map Ranks team on the opening of five of our new locations for Museum of Illusions. They have been easy to communicate with, good at what they do, and effective at setting up and managing our Google Business listings. We would highly recommend them for anyone looking for local SEO or Google Maps setup." - </em><em><strong>Katamuseum Prolic, Museum of Illusion</strong></em>
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/dbseer/" target="_blank" rel="noopener">dbSeer</a></em></h3>
+<em>“Working with dbSeer has been key to our data integration and cloud strategy. Our ability to manage and report across multiple operating companies with accuracy and consistency has been a major strategic win for us." - <strong>Rueben Shafer, Data Net, Inc</strong></em>
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/benetrends/" target="_blank" rel="noopener">Benetrends</a></em></h3>
+<em>“Rocco is more than generous when working with our clients and referral partners and is always well received when we get feedback." - <strong>Ty Brewster, Locate</strong></em>
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/choice-local/" target="_blank" rel="noopener">Choice Local</a></em></h3>
+<em>“Excellent results and fabulous company where everyone goes above and beyond!" - <strong>H.L, Franchisor</strong></em>
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/answerconnect/" target="_blank" rel="noopener">AnswerConnect</a></em></h3>
+<em>“We have worked with many other answering services until we found AnswerConnect. They are so far and beyond advanced when it comes to their technology, customer service, communication, and care for their business. There is no one better when it comes to answering services and they would be a phenomenal recipient of this award." - <strong>Luke Milligan, Zen Windows</strong></em>
+
+</div>
+</div>
+</div>
+<div class="flex justify-between lg:block">
+<div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-2 md:gap-3 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible">As your trusted advisors, we offer a comprehensive range of services, including supplier audits, personalized recommendations, collaborative idea sessions, and overarching guidance. Through our supplier membership model, we deliver these services to franchisors at no cost. This structure not only provides a dedicated platform for established franchise suppliers to showcase their offerings but also empowers them to share valuable content and insights throughout our vibrant community and media channels.</div>
+<div></div>
+<div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-2 md:gap-3 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible"><a href="https://franchisesuppliernetwork.com/assessment/" target="_blank" rel="noopener">Join the Franchise Family and find top supplier partners for your franchise here!</a></div>
+</div>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Recent Deal
+Iframe Link
+*
+Brand Name OR Industry Type (if you cant announce brand yet)
+Title
+*
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Number of Locations
+Why did they partner with you?
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Case Study
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<div class="min-h-[20px] flex flex-col items-start gap-3 overflow-x-auto whitespace-pre-wrap break-words">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+
+Franchise Supplier Network is committed to enhancing the franchisor experience, serving as your dedicated partner. Our primary objective is to help franchisors find the perfect supplier partners while mitigating risks. Whether your franchise organization is emerging, regional, or national, we diligently connect businesses with their ideal suppliers.
+
+But don't just take it from us! We asked franchise brands to <a href="https://franchisesuppliernetwork.com/fsn-supplier-awards/" target="_blank" rel="noopener">share testimonials about FSN Supplier Members</a>, and here's what they had to say:
+
+</div>
+</div>
+<h3><a href="https://franchisesuppliernetwork.com/featured-supplier/suttle-straus/" target="_blank" rel="noopener"><em><strong>Suttle-Straus</strong></em></a></h3>
+<p data-pm-slice="1 1 []"><em>“We launched the Suttle-Straus portal for our franchise system this year and I have been blown away by their partnership and commitment to customer service. They have gone above and beyond to take care of our franchisees with compassion, integrity, and incredible communication. I could not be more thankful for their support and continued partnership as our company expands.” - </em><em><strong>April Hicks, Prime IV Hydration &amp; Wellness</strong></em></p>
+
+<h3><a href="https://franchisesuppliernetwork.com/featured-supplier/clienttether/" target="_blank" rel="noopener"><i>ClientTether</i></a></h3>
+<em>“Great support; constant innovation; moved lead conversion from 9% to 24% in less than 9 months; always putting us as a customer first!" - </em><em><strong>Joel Chochren, Neca</strong></em>
+<h3><a href="https://franchisesuppliernetwork.com/featured-supplier/serviceminder/" target="_blank" rel="noopener"><i>serviceminder</i></a></h3>
+<em>“Serviceminder was and continues to be a one of our most important vendors we have. Their CRM system has helped our system understand our business more than we have in the past. They have provided more training than we could have ever have hoped for! One of the best decision we ever made a s brand!" - </em><em><strong>Al Winnick, Green Home Solutions</strong></em>
+<h3><a href="https://franchisesuppliernetwork.com/featured-supplier/orchatect/" target="_blank" rel="noopener"><i>Orchatect</i></a></h3>
+<em>“Orchatect has truly been a game-changer for us. Their team has diligently navigated the intricacies of our one-of-a-kind system, and the results have been nothing short of astonishing. They've expertly fine-tuned and optimized our operations in countless ways, making our processes more efficient and effective than we could have ever imagined." - </em><em><strong>Yolanda Stevenson, Taxi Mom Franchising LLC</strong></em>
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/map-ranks/" target="_blank" rel="noopener">Map Ranks</a></em></h3>
+<em>“We have worked with the Map Ranks team on the opening of five of our new locations for Museum of Illusions. They have been easy to communicate with, good at what they do, and effective at setting up and managing our Google Business listings. We would highly recommend them for anyone looking for local SEO or Google Maps setup." - </em><em><strong>Katamuseum Prolic, Museum of Illusion</strong></em>
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/dbseer/" target="_blank" rel="noopener">dbSeer</a></em></h3>
+<em>“Working with dbSeer has been key to our data integration and cloud strategy. Our ability to manage and report across multiple operating companies with accuracy and consistency has been a major strategic win for us." - <strong>Rueben Shafer, Data Net, Inc</strong></em>
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/benetrends/" target="_blank" rel="noopener">Benetrends</a></em></h3>
+<em>“Rocco is more than generous when working with our clients and referral partners and is always well received when we get feedback." - <strong>Ty Brewster, Locate</strong></em>
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/choice-local/" target="_blank" rel="noopener">Choice Local</a></em></h3>
+<em>“Excellent results and fabulous company where everyone goes above and beyond!" - <strong>H.L, Franchisor</strong></em>
+<h3><em><a href="https://franchisesuppliernetwork.com/featured-supplier/answerconnect/" target="_blank" rel="noopener">AnswerConnect</a></em></h3>
+<em>“We have worked with many other answering services until we found AnswerConnect. They are so far and beyond advanced when it comes to their technology, customer service, communication, and care for their business. There is no one better when it comes to answering services and they would be a phenomenal recipient of this award." - <strong>Luke Milligan, Zen Windows</strong></em>
+
+</div>
+</div>
+</div>
+<div class="flex justify-between lg:block">
+<div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-2 md:gap-3 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible">As your trusted advisors, we offer a comprehensive range of services, including supplier audits, personalized recommendations, collaborative idea sessions, and overarching guidance. Through our supplier membership model, we deliver these services to franchisors at no cost. This structure not only provides a dedicated platform for established franchise suppliers to showcase their offerings but also empowers them to share valuable content and insights throughout our vibrant community and media channels.</div>
+<div></div>
+<div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-2 md:gap-3 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible"><a href="https://franchisesuppliernetwork.com/assessment/" target="_blank" rel="noopener">Join the Franchise Family and find top supplier partners for your franchise here!</a></div>
+</div>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+© 2023 Copyright - FranchiseSupplierNetwork.com
+Visual
+Text
+Insert/edit link
+Close
+Enter the destination URL
+URL
+Link Text
+Open link in a new tab
+Or link to existing content
+Search
+No search term specified. Showing recent items.
+Search or use up and down arrow keys to select an item.
+Cancel
+----------------------------------------------------------------------------------------------------
+

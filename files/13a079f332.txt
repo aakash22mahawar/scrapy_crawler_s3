@@ -1,0 +1,313 @@
+URL: https://franchisesuppliernetwork.com/fsn-members/add-content/?post_id=4590
+
+----------------------------------------------------------------------------------------------------
+
+Franchise Supplier Network
+Add Content - Franchise Supplier Network
+My Account
+My Profile
+Logout
+My Account
+My Profile
+Logout
+Submit Content
+Edit Profile
+Brand Lists
+Supplier Bootcamp
+Sponsorships
+Team Members
+SUBMIT A
+BLOG, BYLINE, OR THOUGHT LEADERSHIP ARTICLE
+Share your industry expertise, product development highlights, and brand bylines.
+SUBMIT A
+RECENT DEAL OR BRAND WIN
+When you have a big win, we want to know about it! Share when you sign a big contract or hit a major milestone.
+SUBMIT A
+CASE STUDY FROM A TOP CUSTOMER
+Help us sell you by submitting case studies that showcase your happy clients and what you do best.
+Blog
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<div class="elementor-element elementor-element-1ca17aa9 elementor-widget elementor-widget-heading" data-id="1ca17aa9" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The Customer</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-815f4ae elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="815f4ae" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+<a href="https://www.cottifoods.com/">Cotti Foods</a> began in 1967 with the purchase of one Taco Bell restaurant in Southern California. Since then, Cotti has grown with the addition of Wendy’s in 2014 and Pieology in 2015, and today is a leading mulit-unit franchisee operating 106 Taco Bell restaurants, 122 Wendy’s restaurants and 5 Pieology restaurants across 6 states.
+<div class="elementor-element elementor-element-1ff9db88 elementor-widget elementor-widget-heading" data-id="1ff9db88" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">The Challenge</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-29cba395 elementor-widget elementor-widget-text-editor" data-id="29cba395" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+With such a vast footprint, efficient real estate management is crucial for sustained growth and profitability. Several years ago, Cotti Foods found itself facing a significant challenge: the implementation of ASC 842. This accounting standard necessitated complex lease calculations, a task that CFO Scott Miller deemed burdensome and prone to error. Recognizing the need for a streamlined solution, Cotti Foods began exploring lease management systems to simplify this process and mitigate risk.
+<div class="elementor-element elementor-element-6586ffdf elementor-widget elementor-widget-heading" data-id="6586ffdf" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">The Solution: Leasecake</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-72371e45 elementor-widget elementor-widget-text-editor" data-id="72371e45" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+After evaluating several options, Cotti Foods selected <a href="http://www.leasecake.com">Leasecake</a> as their <a href="https://www.leasecake.com/solutions/lease-management-software/" target="_blank" rel="noopener">lease and location management platform</a>. The decision was driven by the system’s intuitive interface, robust features, and ability to standardize, simplify, and automate many of the back office real estate processes that were too time consuming for the team to handle manually while growing rapidly.
+<div class="elementor-element elementor-element-4e8a6175 elementor-widget elementor-widget-heading" data-id="4e8a6175" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">The Results</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-153b3610 elementor-widget elementor-widget-text-editor" data-id="153b3610" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Since adopting Leasecake two years ago, Cotti Foods has experienced tangible benefits across its real estate management operations.
+
+“Before Leasecake, we relied on landlords to prompt lease renewals, but now we’re proactive, controlling CPI calculations and ensuring accuracy,” said Scott Miller, CFO, Cotti Foods. “This technology has streamlined processes, giving us more control and reducing time to close leases.”
+
+From simplifying ASC 842 compliance to empowering proactive lease negotiations, the platform has become an indispensable tool for driving efficiency, standardization, and scalability. With Leasecake, Cotti Foods is well-positioned to navigate the complexities of real estate management and continue its expansion with confidence.
+<div class="elementor-element elementor-element-5533649b ui-split-animate ui-splitby-words elementor-widget elementor-widget-heading" data-id="5533649b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;ui_animate_split&quot;:&quot;ui-split-animate&quot;,&quot;ui_animate_split_by&quot;:&quot;words&quot;,&quot;ui_animate_split_style&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default words splitting"><span class="word ui-e-animated fadeInUp" data-word="“We">“We</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="love">love</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="Leasecake">Leasecake</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="because">because</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="it">it</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="helps">helps</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="to">to</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="reduce">reduce</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="risk.">risk.</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="We">We</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="don't">don't</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="miss">miss</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="lease">lease</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="options">options</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="which">which</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="can">can</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="come">come</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="back">back</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="and">and</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="bite">bite</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="us,">us,</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="because">because</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="we">we</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="know">know</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="about">about</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="them">them</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="all">all</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="ahead">ahead</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="of">of</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="time.”">time.”</span></h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-621d6e74 ui-split-animate ui-splitby-words elementor-widget elementor-widget-text-editor" data-id="621d6e74" data-element_type="widget" data-settings="{&quot;ui_animate_split&quot;:&quot;ui-split-animate&quot;,&quot;ui_animate_split_by&quot;:&quot;words&quot;,&quot;ui_animate_split_style&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="words splitting"><span class="word ui-e-animated fadeInUp" data-word="Scott">Scott</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="Miller">Miller, CFO, </span><span class="word ui-e-animated fadeInUp" data-word="Cotti">Cotti</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="Foods,">Foods </span></p>
+
+<div class="elementor-element elementor-element-0c3bea4 elementor-widget elementor-widget-heading" data-id="0c3bea4" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Benefits of Leasecake</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-6ec1848 elementor-widget elementor-widget-text-editor" data-id="6ec1848" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ol>
+ 	<li><b>Seamless Audits:</b> Leasecake’s platform facilitates smooth audits by providing auditors with transparent access to lease calculations and data. This transparency not only expedited the auditing process but also instilled confidence in the accuracy and reliability of financial reporting.</li>
+ 	<li><b>Improved Efficiency:</b>  The platform’s comprehensive functionalities streamlined lease administration, enabling the team at Cotti Foods to work more efficiently and effectively.</li>
+ 	<li><b>Risk Reduction:</b> By centralizing lease data and automating critical tasks, Leasecake helped Cotti Foods minimize risk. The platform ensures timely notifications of lease options, preventing missed opportunities and potential liabilities.</li>
+ 	<li><b>Proactive Lease Management:</b> Prior to adopting Leasecake, Cotti Foods lacked a formal process for lease renewals, relying instead on landlords to initiate discussions. With Leasecake, the company adopted a proactive approach, leveraging CPI calculations and taking control of lease negotiations. This proactive stance empowers Cotti Foods to optimize lease terms and mitigate costs effectively.</li>
+ 	<li><b>Time and Cost Savings</b>: Utilizing Leasecake has not only reduced risk but also saved valuable time and resources for Cotti Foods. By automating calculations and standardizing processes, the company can allocate resources more efficiently and focus on strategic initiatives to drive growth.</li>
+</ol>
+</div>
+<div class="elementor-element elementor-element-2d3eb6ca elementor-widget elementor-widget-heading" data-id="2d3eb6ca" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Want a piece?</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-34ef09eb elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-initial elementor-widget elementor-widget-text-editor" data-id="34ef09eb" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Let us show you how easy lease management can be. <a href="http://www.leasecake.com/demo">Contact us to schedule a demo</a>.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Recent Deal
+Iframe Link
+*
+Brand Name OR Industry Type (if you cant announce brand yet)
+Title
+*
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Number of Locations
+Why did they partner with you?
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Case Study
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<div class="elementor-element elementor-element-1ca17aa9 elementor-widget elementor-widget-heading" data-id="1ca17aa9" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The Customer</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-815f4ae elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="815f4ae" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+<a href="https://www.cottifoods.com/">Cotti Foods</a> began in 1967 with the purchase of one Taco Bell restaurant in Southern California. Since then, Cotti has grown with the addition of Wendy’s in 2014 and Pieology in 2015, and today is a leading mulit-unit franchisee operating 106 Taco Bell restaurants, 122 Wendy’s restaurants and 5 Pieology restaurants across 6 states.
+<div class="elementor-element elementor-element-1ff9db88 elementor-widget elementor-widget-heading" data-id="1ff9db88" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">The Challenge</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-29cba395 elementor-widget elementor-widget-text-editor" data-id="29cba395" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+With such a vast footprint, efficient real estate management is crucial for sustained growth and profitability. Several years ago, Cotti Foods found itself facing a significant challenge: the implementation of ASC 842. This accounting standard necessitated complex lease calculations, a task that CFO Scott Miller deemed burdensome and prone to error. Recognizing the need for a streamlined solution, Cotti Foods began exploring lease management systems to simplify this process and mitigate risk.
+<div class="elementor-element elementor-element-6586ffdf elementor-widget elementor-widget-heading" data-id="6586ffdf" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">The Solution: Leasecake</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-72371e45 elementor-widget elementor-widget-text-editor" data-id="72371e45" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+After evaluating several options, Cotti Foods selected <a href="http://www.leasecake.com">Leasecake</a> as their <a href="https://www.leasecake.com/solutions/lease-management-software/" target="_blank" rel="noopener">lease and location management platform</a>. The decision was driven by the system’s intuitive interface, robust features, and ability to standardize, simplify, and automate many of the back office real estate processes that were too time consuming for the team to handle manually while growing rapidly.
+<div class="elementor-element elementor-element-4e8a6175 elementor-widget elementor-widget-heading" data-id="4e8a6175" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">The Results</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-153b3610 elementor-widget elementor-widget-text-editor" data-id="153b3610" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Since adopting Leasecake two years ago, Cotti Foods has experienced tangible benefits across its real estate management operations.
+
+“Before Leasecake, we relied on landlords to prompt lease renewals, but now we’re proactive, controlling CPI calculations and ensuring accuracy,” said Scott Miller, CFO, Cotti Foods. “This technology has streamlined processes, giving us more control and reducing time to close leases.”
+
+From simplifying ASC 842 compliance to empowering proactive lease negotiations, the platform has become an indispensable tool for driving efficiency, standardization, and scalability. With Leasecake, Cotti Foods is well-positioned to navigate the complexities of real estate management and continue its expansion with confidence.
+<div class="elementor-element elementor-element-5533649b ui-split-animate ui-splitby-words elementor-widget elementor-widget-heading" data-id="5533649b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;ui_animate_split&quot;:&quot;ui-split-animate&quot;,&quot;ui_animate_split_by&quot;:&quot;words&quot;,&quot;ui_animate_split_style&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default words splitting"><span class="word ui-e-animated fadeInUp" data-word="“We">“We</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="love">love</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="Leasecake">Leasecake</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="because">because</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="it">it</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="helps">helps</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="to">to</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="reduce">reduce</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="risk.">risk.</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="We">We</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="don't">don't</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="miss">miss</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="lease">lease</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="options">options</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="which">which</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="can">can</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="come">come</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="back">back</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="and">and</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="bite">bite</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="us,">us,</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="because">because</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="we">we</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="know">know</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="about">about</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="them">them</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="all">all</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="ahead">ahead</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="of">of</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="time.”">time.”</span></h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-621d6e74 ui-split-animate ui-splitby-words elementor-widget elementor-widget-text-editor" data-id="621d6e74" data-element_type="widget" data-settings="{&quot;ui_animate_split&quot;:&quot;ui-split-animate&quot;,&quot;ui_animate_split_by&quot;:&quot;words&quot;,&quot;ui_animate_split_style&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="words splitting"><span class="word ui-e-animated fadeInUp" data-word="Scott">Scott</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="Miller">Miller, CFO, </span><span class="word ui-e-animated fadeInUp" data-word="Cotti">Cotti</span><span class="whitespace"> </span><span class="word ui-e-animated fadeInUp" data-word="Foods,">Foods </span></p>
+
+<div class="elementor-element elementor-element-0c3bea4 elementor-widget elementor-widget-heading" data-id="0c3bea4" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Benefits of Leasecake</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-6ec1848 elementor-widget elementor-widget-text-editor" data-id="6ec1848" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ol>
+ 	<li><b>Seamless Audits:</b> Leasecake’s platform facilitates smooth audits by providing auditors with transparent access to lease calculations and data. This transparency not only expedited the auditing process but also instilled confidence in the accuracy and reliability of financial reporting.</li>
+ 	<li><b>Improved Efficiency:</b>  The platform’s comprehensive functionalities streamlined lease administration, enabling the team at Cotti Foods to work more efficiently and effectively.</li>
+ 	<li><b>Risk Reduction:</b> By centralizing lease data and automating critical tasks, Leasecake helped Cotti Foods minimize risk. The platform ensures timely notifications of lease options, preventing missed opportunities and potential liabilities.</li>
+ 	<li><b>Proactive Lease Management:</b> Prior to adopting Leasecake, Cotti Foods lacked a formal process for lease renewals, relying instead on landlords to initiate discussions. With Leasecake, the company adopted a proactive approach, leveraging CPI calculations and taking control of lease negotiations. This proactive stance empowers Cotti Foods to optimize lease terms and mitigate costs effectively.</li>
+ 	<li><b>Time and Cost Savings</b>: Utilizing Leasecake has not only reduced risk but also saved valuable time and resources for Cotti Foods. By automating calculations and standardizing processes, the company can allocate resources more efficiently and focus on strategic initiatives to drive growth.</li>
+</ol>
+</div>
+<div class="elementor-element elementor-element-2d3eb6ca elementor-widget elementor-widget-heading" data-id="2d3eb6ca" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Want a piece?</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-34ef09eb elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-initial elementor-widget elementor-widget-text-editor" data-id="34ef09eb" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Let us show you how easy lease management can be. <a href="http://www.leasecake.com/demo">Contact us to schedule a demo</a>.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+© 2023 Copyright - FranchiseSupplierNetwork.com
+Visual
+Text
+Insert/edit link
+Close
+Enter the destination URL
+URL
+Link Text
+Open link in a new tab
+Or link to existing content
+Search
+No search term specified. Showing recent items.
+Search or use up and down arrow keys to select an item.
+Cancel
+----------------------------------------------------------------------------------------------------
+

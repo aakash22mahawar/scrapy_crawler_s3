@@ -1,0 +1,377 @@
+URL: https://franchisesuppliernetwork.com/fsn-members/add-content/?post_id=4346
+
+----------------------------------------------------------------------------------------------------
+
+Franchise Supplier Network
+Add Content - Franchise Supplier Network
+My Account
+My Profile
+Logout
+My Account
+My Profile
+Logout
+Submit Content
+Edit Profile
+Brand Lists
+Supplier Bootcamp
+Sponsorships
+Team Members
+SUBMIT A
+BLOG, BYLINE, OR THOUGHT LEADERSHIP ARTICLE
+Share your industry expertise, product development highlights, and brand bylines.
+SUBMIT A
+RECENT DEAL OR BRAND WIN
+When you have a big win, we want to know about it! Share when you sign a big contract or hit a major milestone.
+SUBMIT A
+CASE STUDY FROM A TOP CUSTOMER
+Help us sell you by submitting case studies that showcase your happy clients and what you do best.
+Blog
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<section class="elementor-section elementor-top-section elementor-element elementor-element-67da9c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-particle_enable="false" data-particle-mobile-disabled="false" data-id="67da9c5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ef220b0" data-id="ef220b0" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-38bd406 elementor-widget elementor-widget-text-editor" data-id="38bd406" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Founded in 2021, Insulation Commandos is a home services company specializing in insulation. They perform HVAC system assessments and optimization, insulation retrofits, air sealing, and more. Customers rave about the company’s speed, cleanliness, and attention to detail. Much of the work they do involves retrofitting insulation in 20 to 30-year-old homes.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section class="elementor-section elementor-top-section elementor-element elementor-element-3e7cea1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-particle_enable="false" data-particle-mobile-disabled="false" data-id="3e7cea1" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1564cb5" data-id="1564cb5" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b9bc308 elementor-widget elementor-widget-text-editor" data-id="b9bc308" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+<strong>Dustin Ingle, CEO</strong><b> &amp; Director of Franchise Development </b>and his executive team started Insulation Commandos after working in the home services and franchise development sectors for years. They have successfully scaled multiple brands in the past and aim to grow Insulation Commandos to at least 10 locations in the next year.
+
+<strong>His mission:</strong>
+<ul>
+ 	<li>Turn Insulation Commando’s successful business model into a successful franchise.</li>
+ 	<li>Filter through and qualify leads to find the best potential franchisees.</li>
+ 	<li>Meet with potential franchisees to evaluate their fit with the franchise and help map out territories.</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-4169586 elementor-widget elementor-widget-heading" data-id="4169586" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The challenge</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-04eb462 elementor-widget elementor-widget-text-editor" data-id="04eb462" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+As a franchisor, Dustin has a two-fold challenge: keeping his initial location growing while developing the franchise itself. That means building a fool-proof business strategy he can use as a model for future franchisees. That kind of work involves deep market research, careful franchise territory mapping, and optimized marketing efforts.
+<blockquote><em>“The software I was using was pretty outdated. It’s very basic. You click on a zip code and have to wait 10 seconds before it’s highlighted. It needs an update, and there are a lot of franchisors using it. They don’t even know Smappen exists.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-727a5e1 elementor-widget elementor-widget-heading" data-id="727a5e1" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The solution</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-b3793c4 elementor-widget elementor-widget-heading" data-id="b3793c4" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">BUILDING AND SHARING TERRITORIES WITH FRANCHISEES</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-6da2faa elementor-widget elementor-widget-text-editor" data-id="6da2faa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Properly researched and defined franchise territories can make or break a franchise. Unlike many franchisors who are still using outdated tools, Dustin can generate and share territories with franchisees dynamically with <a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener">Smappen</a>.
+<blockquote><em>“When I have a call with a potential franchisee, I can show them the map of their city in Smappen and we build the territories out together since the franchisees know the area better than we do. A franchisee in Austin purchased four territories, and we built those four territories with Smappen and put them right in the contract. ”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-41d987b elementor-widget elementor-widget-heading" data-id="41d987b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">STREAMLINING SALES AND MARKETING WITH ROBUST DATA</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-f00499e elementor-widget elementor-widget-text-editor" data-id="f00499e" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Smappen’s robust database gives Dustin the ability to properly research franchise territories, giving potential franchisees the best chance to succeed. But it’s also a great marketing tool, too, allowing Insulation Commandos to tailor their approach to each territory — like mailing flyers in areas where homeowners are more receptive to this strategy.
+<blockquote><em>“When franchisees see all that data, they’re like ‘Wow, this is a robust system.’ You can see where people in a territory work, how much money they’re making, the values of their homes, and even how many people live in that house. All that data is right there.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-b81c6fe elementor-widget elementor-widget-heading" data-id="b81c6fe" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">USING DEDICATED LOCATION INTELLIGENCE SOFTWARE ON THE GO</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-2498d52 elementor-widget elementor-widget-text-editor" data-id="2498d52" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+As the CEO of Insulation Commandos, Dustin does a lot of traveling. He may be meeting potential franchisees, working with local teams, or otherwise developing the business. Location intelligence platforms he’s used in the past didn’t work while he was on the go — not the way Smappen does.
+<blockquote><em>“I travel a lot. I can pull Smappen up on my phone and literally build a territory in five seconds, whereas the previous software I used was definitely not mobile-friendly. You can’t even log in on your phone.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-cced14d elementor-widget elementor-widget-heading" data-id="cced14d" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The results</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-cd60450 elementor-widget elementor-widget-text-editor" data-id="cd60450" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+ 	<li>Franchise territory mapping that’s so easy it can be done live on sales calls.</li>
+ 	<li>Deep, accessible market research powered by Smappen’s built-in data.</li>
+ 	<li>Better ROI for local marketing, powered by location intelligence.</li>
+ 	<li>On-the-go, mobile-friendly franchise territory mapping.</li>
+ 	<li>Building maps based on data essential for business strategy, like zip codes.</li>
+</ul>
+<blockquote><em>“When Laurent connected with me and showed me a demo, I thought ‘Wow, this is 1000 times better than what I’m using now.’ I was working for a big franchise company at the time, and when I left to start Insulation Commandos, it was a no-brainer that I was going to use Smappen.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-52f1048 elementor-widget elementor-widget-heading" data-id="52f1048" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">SMAPPEN ACCORDING TO DUSTIN</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-aca9ac1 elementor-blockquote--skin-boxed elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="aca9ac1" data-element_type="widget" data-widget_type="blockquote.default">
+<div class="elementor-widget-container">
+<blockquote class="elementor-blockquote">
+<p class="elementor-blockquote__content">“Smappen is very user-friendly mapping software that checks all the boxes for franchise development, where you’re building and managing territories. Its built-in data means you can also leverage it in marketing.” - <b>Dustin Ingle, </b>CEO at Insulation Commandos</p>
+</blockquote>
+<a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener"><em>Get connected with Smappen here!</em></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Recent Deal
+Iframe Link
+*
+Brand Name OR Industry Type (if you cant announce brand yet)
+Title
+*
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Number of Locations
+Why did they partner with you?
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Case Study
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<section class="elementor-section elementor-top-section elementor-element elementor-element-67da9c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-particle_enable="false" data-particle-mobile-disabled="false" data-id="67da9c5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ef220b0" data-id="ef220b0" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-38bd406 elementor-widget elementor-widget-text-editor" data-id="38bd406" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Founded in 2021, Insulation Commandos is a home services company specializing in insulation. They perform HVAC system assessments and optimization, insulation retrofits, air sealing, and more. Customers rave about the company’s speed, cleanliness, and attention to detail. Much of the work they do involves retrofitting insulation in 20 to 30-year-old homes.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section class="elementor-section elementor-top-section elementor-element elementor-element-3e7cea1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-particle_enable="false" data-particle-mobile-disabled="false" data-id="3e7cea1" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1564cb5" data-id="1564cb5" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b9bc308 elementor-widget elementor-widget-text-editor" data-id="b9bc308" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+<strong>Dustin Ingle, CEO</strong><b> &amp; Director of Franchise Development </b>and his executive team started Insulation Commandos after working in the home services and franchise development sectors for years. They have successfully scaled multiple brands in the past and aim to grow Insulation Commandos to at least 10 locations in the next year.
+
+<strong>His mission:</strong>
+<ul>
+ 	<li>Turn Insulation Commando’s successful business model into a successful franchise.</li>
+ 	<li>Filter through and qualify leads to find the best potential franchisees.</li>
+ 	<li>Meet with potential franchisees to evaluate their fit with the franchise and help map out territories.</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-4169586 elementor-widget elementor-widget-heading" data-id="4169586" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The challenge</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-04eb462 elementor-widget elementor-widget-text-editor" data-id="04eb462" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+As a franchisor, Dustin has a two-fold challenge: keeping his initial location growing while developing the franchise itself. That means building a fool-proof business strategy he can use as a model for future franchisees. That kind of work involves deep market research, careful franchise territory mapping, and optimized marketing efforts.
+<blockquote><em>“The software I was using was pretty outdated. It’s very basic. You click on a zip code and have to wait 10 seconds before it’s highlighted. It needs an update, and there are a lot of franchisors using it. They don’t even know Smappen exists.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-727a5e1 elementor-widget elementor-widget-heading" data-id="727a5e1" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The solution</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-b3793c4 elementor-widget elementor-widget-heading" data-id="b3793c4" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">BUILDING AND SHARING TERRITORIES WITH FRANCHISEES</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-6da2faa elementor-widget elementor-widget-text-editor" data-id="6da2faa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Properly researched and defined franchise territories can make or break a franchise. Unlike many franchisors who are still using outdated tools, Dustin can generate and share territories with franchisees dynamically with <a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener">Smappen</a>.
+<blockquote><em>“When I have a call with a potential franchisee, I can show them the map of their city in Smappen and we build the territories out together since the franchisees know the area better than we do. A franchisee in Austin purchased four territories, and we built those four territories with Smappen and put them right in the contract. ”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-41d987b elementor-widget elementor-widget-heading" data-id="41d987b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">STREAMLINING SALES AND MARKETING WITH ROBUST DATA</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-f00499e elementor-widget elementor-widget-text-editor" data-id="f00499e" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Smappen’s robust database gives Dustin the ability to properly research franchise territories, giving potential franchisees the best chance to succeed. But it’s also a great marketing tool, too, allowing Insulation Commandos to tailor their approach to each territory — like mailing flyers in areas where homeowners are more receptive to this strategy.
+<blockquote><em>“When franchisees see all that data, they’re like ‘Wow, this is a robust system.’ You can see where people in a territory work, how much money they’re making, the values of their homes, and even how many people live in that house. All that data is right there.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-b81c6fe elementor-widget elementor-widget-heading" data-id="b81c6fe" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">USING DEDICATED LOCATION INTELLIGENCE SOFTWARE ON THE GO</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-2498d52 elementor-widget elementor-widget-text-editor" data-id="2498d52" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+As the CEO of Insulation Commandos, Dustin does a lot of traveling. He may be meeting potential franchisees, working with local teams, or otherwise developing the business. Location intelligence platforms he’s used in the past didn’t work while he was on the go — not the way Smappen does.
+<blockquote><em>“I travel a lot. I can pull Smappen up on my phone and literally build a territory in five seconds, whereas the previous software I used was definitely not mobile-friendly. You can’t even log in on your phone.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-cced14d elementor-widget elementor-widget-heading" data-id="cced14d" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The results</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-cd60450 elementor-widget elementor-widget-text-editor" data-id="cd60450" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+ 	<li>Franchise territory mapping that’s so easy it can be done live on sales calls.</li>
+ 	<li>Deep, accessible market research powered by Smappen’s built-in data.</li>
+ 	<li>Better ROI for local marketing, powered by location intelligence.</li>
+ 	<li>On-the-go, mobile-friendly franchise territory mapping.</li>
+ 	<li>Building maps based on data essential for business strategy, like zip codes.</li>
+</ul>
+<blockquote><em>“When Laurent connected with me and showed me a demo, I thought ‘Wow, this is 1000 times better than what I’m using now.’ I was working for a big franchise company at the time, and when I left to start Insulation Commandos, it was a no-brainer that I was going to use Smappen.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-52f1048 elementor-widget elementor-widget-heading" data-id="52f1048" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">SMAPPEN ACCORDING TO DUSTIN</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-aca9ac1 elementor-blockquote--skin-boxed elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="aca9ac1" data-element_type="widget" data-widget_type="blockquote.default">
+<div class="elementor-widget-container">
+<blockquote class="elementor-blockquote">
+<p class="elementor-blockquote__content">“Smappen is very user-friendly mapping software that checks all the boxes for franchise development, where you’re building and managing territories. Its built-in data means you can also leverage it in marketing.” - <b>Dustin Ingle, </b>CEO at Insulation Commandos</p>
+</blockquote>
+<a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener"><em>Get connected with Smappen here!</em></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+© 2023 Copyright - FranchiseSupplierNetwork.com
+Visual
+Text
+Insert/edit link
+Close
+Enter the destination URL
+URL
+Link Text
+Open link in a new tab
+Or link to existing content
+Search
+No search term specified. Showing recent items.
+Search or use up and down arrow keys to select an item.
+Cancel
+----------------------------------------------------------------------------------------------------
+

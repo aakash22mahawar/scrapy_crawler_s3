@@ -1,0 +1,273 @@
+URL: https://franchisesuppliernetwork.com/fsn-members/add-content/?post_id=4287
+
+----------------------------------------------------------------------------------------------------
+
+Franchise Supplier Network
+Add Content - Franchise Supplier Network
+My Account
+My Profile
+Logout
+My Account
+My Profile
+Logout
+Submit Content
+Edit Profile
+Brand Lists
+Supplier Bootcamp
+Sponsorships
+Team Members
+SUBMIT A
+BLOG, BYLINE, OR THOUGHT LEADERSHIP ARTICLE
+Share your industry expertise, product development highlights, and brand bylines.
+SUBMIT A
+RECENT DEAL OR BRAND WIN
+When you have a big win, we want to know about it! Share when you sign a big contract or hit a major milestone.
+SUBMIT A
+CASE STUDY FROM A TOP CUSTOMER
+Help us sell you by submitting case studies that showcase your happy clients and what you do best.
+Blog
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<!-- wp:paragraph -->
+<h4 class="TypographyPresentation TypographyPresentation--colorDefault TypographyPresentation--h4 TypographyPresentation--fontWeightMedium RichText3-header1--withVSpacingNormal RichText3-header1">What creates a raving fan? <em><strong>And what does a true partnership look like these days? </strong></em></h4>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph">These are a couple questions that we’ve been asking ourselves recently at <a href="https://franchisesuppliernetwork.com/featured-supplier/woven/" target="_blank" rel="noopener">Woven</a>.</div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph"> </div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph">Woven has had <strong>industry-best customer retention</strong> since we started in 2017 and we enjoy a strong pipeline of referral sales each year. These are KPI's we use to indicate that we’re doing something right, have happy customers, and are adding value for their organizations and teams. Internally, we largely attribute this to our Customer Success team and what they do for Woven customers every day. Yes, the Woven platform is robust and capable, but it is our team providing the training, follow-ups, and solutions that take it over the top.</div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph"> </div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph">As Woven continues to add new Customer Success team members, <strong>we are tasked with identifying just how we do this (our "secret sauce") so we can train &amp; replicate it as we grow</strong>. Service is at the core of our mission and values, but it's not enough to rely on luck and water cooler knowledge to keep delivering at the level our customers have come to expect from us.</div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph"> </div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph">In response to this internal thought exercise, we have established our <strong><u><a class="PrimaryLink BaseLink" href="https://startwoven.com/wovens-promises-to-our-customers/?utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-9MBSOWayablI2uwWYez4j5irhH8hxQyvViCGPI59qIWIqUuckkLSBs6Cj6UZgErNPburpR" target="_blank" rel="noreferrer noopener">Woven Promises</a></u></strong>. These are commitments to all Woven customers (new and existing) on what they should come to expect from us. These Woven Promises are more than a memo to new Woven employees; they will serve as an accountability mechanism to ensure that we maintain our high level of service.</div>
+<p>In the fast-paced world of multi-unit businesses, success hinges not only on streamlined operations but also on cultivating a culture of respect, education, and service. At <a href="https://startwoven.com/" target="_blank" rel="noreferrer noopener" data-type="link" data-id="https://startwoven.com/">Woven</a>, these values are not just part of our brand; they're the heartbeat of everything we do. Here's how we promise to align with these principles and support our clients every step of the way:</p>
+<hr /><!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Listen</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>At Woven, we understand that every organization is unique, with its own set of challenges and priorities. That's why we start by listening. We listen to our customers, absorbing their insights and understanding their needs. We respect their organization's individuality and support them accordingly. Whether it's through customized implementations or regular status meetings, we ensure that our solutions are tailored to fit their specific requirements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Continuously Educate &amp; Train</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Education is key to unlocking the full potential of our platform. We actively engage with our customers to train their management and leadership teams, empowering them to maximize the value they receive. With unlimited training sessions for key personnel, we ensure that our customers are equipped with the knowledge and skills they need to succeed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Respond (Quickly!)</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We recognize that our customers' time is precious, and their needs are important. That's why we strive to be responsive, setting a goal of responding to all inquiries within 24 business hours. Whether it's a question, a concern, or a request for assistance, our team is dedicated to providing timely and effective support.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Follow Through</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sometimes, despite our best efforts, we may not have all the answers or be able to solve every problem immediately. But we promise to never leave our customers hanging. We capture every case and follow through on a resolution, ensuring that no issue goes unresolved. Through action items from status meetings and diligent follow-up, we demonstrate our commitment to seeing things through to the end.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Evolve (So you can too)</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Business needs are constantly evolving, and so are we. We recognize the importance of staying ahead of the curve and continuously adding value for our customers. That's why we're always open to feedback, capturing and tracking enhancement requests, and modifying how we support our customers to meet their evolving needs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We’re Human</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We're not perfect, and we don't pretend to be. But when we fall short, we own it. We're committed to transparency, open and honest conversations, and making things right. Our customers can trust us to acknowledge our mistakes and work tirelessly to correct them, ensuring that their experience with Woven is nothing short of exceptional.</p>
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>In the world of multi-unit businesses, success is built on a foundation of respect, education, and service. At <a href="https://startwoven.com/" target="_blank" rel="noreferrer noopener" data-type="link" data-id="https://startwoven.com/">Woven</a>, these values aren't just ideals; they're our guiding principles, shaping every interaction and decision. With our unwavering commitment to listening, educating, serving, and evolving, we're proud to partner with our clients on their journey to success.</em></p>
+<p><a href="https://franchisesuppliernetwork.com/featured-supplier/woven/" target="_blank" rel="noopener"><em>Get connected with Woven here!</em></a></p>
+<!-- /wp:paragraph -->
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Recent Deal
+Iframe Link
+*
+Brand Name OR Industry Type (if you cant announce brand yet)
+Title
+*
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Number of Locations
+Why did they partner with you?
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Case Study
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<!-- wp:paragraph -->
+<h4 class="TypographyPresentation TypographyPresentation--colorDefault TypographyPresentation--h4 TypographyPresentation--fontWeightMedium RichText3-header1--withVSpacingNormal RichText3-header1">What creates a raving fan? <em><strong>And what does a true partnership look like these days? </strong></em></h4>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph">These are a couple questions that we’ve been asking ourselves recently at <a href="https://franchisesuppliernetwork.com/featured-supplier/woven/" target="_blank" rel="noopener">Woven</a>.</div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph"> </div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph">Woven has had <strong>industry-best customer retention</strong> since we started in 2017 and we enjoy a strong pipeline of referral sales each year. These are KPI's we use to indicate that we’re doing something right, have happy customers, and are adding value for their organizations and teams. Internally, we largely attribute this to our Customer Success team and what they do for Woven customers every day. Yes, the Woven platform is robust and capable, but it is our team providing the training, follow-ups, and solutions that take it over the top.</div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph"> </div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph">As Woven continues to add new Customer Success team members, <strong>we are tasked with identifying just how we do this (our "secret sauce") so we can train &amp; replicate it as we grow</strong>. Service is at the core of our mission and values, but it's not enough to rely on luck and water cooler knowledge to keep delivering at the level our customers have come to expect from us.</div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph"> </div>
+<div class="TypographyPresentation TypographyPresentation--m RichText3-paragraph--withVSpacingNormal RichText3-paragraph">In response to this internal thought exercise, we have established our <strong><u><a class="PrimaryLink BaseLink" href="https://startwoven.com/wovens-promises-to-our-customers/?utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-9MBSOWayablI2uwWYez4j5irhH8hxQyvViCGPI59qIWIqUuckkLSBs6Cj6UZgErNPburpR" target="_blank" rel="noreferrer noopener">Woven Promises</a></u></strong>. These are commitments to all Woven customers (new and existing) on what they should come to expect from us. These Woven Promises are more than a memo to new Woven employees; they will serve as an accountability mechanism to ensure that we maintain our high level of service.</div>
+<p>In the fast-paced world of multi-unit businesses, success hinges not only on streamlined operations but also on cultivating a culture of respect, education, and service. At <a href="https://startwoven.com/" target="_blank" rel="noreferrer noopener" data-type="link" data-id="https://startwoven.com/">Woven</a>, these values are not just part of our brand; they're the heartbeat of everything we do. Here's how we promise to align with these principles and support our clients every step of the way:</p>
+<hr /><!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Listen</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>At Woven, we understand that every organization is unique, with its own set of challenges and priorities. That's why we start by listening. We listen to our customers, absorbing their insights and understanding their needs. We respect their organization's individuality and support them accordingly. Whether it's through customized implementations or regular status meetings, we ensure that our solutions are tailored to fit their specific requirements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Continuously Educate &amp; Train</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Education is key to unlocking the full potential of our platform. We actively engage with our customers to train their management and leadership teams, empowering them to maximize the value they receive. With unlimited training sessions for key personnel, we ensure that our customers are equipped with the knowledge and skills they need to succeed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Respond (Quickly!)</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We recognize that our customers' time is precious, and their needs are important. That's why we strive to be responsive, setting a goal of responding to all inquiries within 24 business hours. Whether it's a question, a concern, or a request for assistance, our team is dedicated to providing timely and effective support.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Follow Through</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sometimes, despite our best efforts, we may not have all the answers or be able to solve every problem immediately. But we promise to never leave our customers hanging. We capture every case and follow through on a resolution, ensuring that no issue goes unresolved. Through action items from status meetings and diligent follow-up, we demonstrate our commitment to seeing things through to the end.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We Evolve (So you can too)</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Business needs are constantly evolving, and so are we. We recognize the importance of staying ahead of the curve and continuously adding value for our customers. That's why we're always open to feedback, capturing and tracking enhancement requests, and modifying how we support our customers to meet their evolving needs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size"><strong>We’re Human</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We're not perfect, and we don't pretend to be. But when we fall short, we own it. We're committed to transparency, open and honest conversations, and making things right. Our customers can trust us to acknowledge our mistakes and work tirelessly to correct them, ensuring that their experience with Woven is nothing short of exceptional.</p>
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>In the world of multi-unit businesses, success is built on a foundation of respect, education, and service. At <a href="https://startwoven.com/" target="_blank" rel="noreferrer noopener" data-type="link" data-id="https://startwoven.com/">Woven</a>, these values aren't just ideals; they're our guiding principles, shaping every interaction and decision. With our unwavering commitment to listening, educating, serving, and evolving, we're proud to partner with our clients on their journey to success.</em></p>
+<p><a href="https://franchisesuppliernetwork.com/featured-supplier/woven/" target="_blank" rel="noopener"><em>Get connected with Woven here!</em></a></p>
+<!-- /wp:paragraph -->
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+© 2023 Copyright - FranchiseSupplierNetwork.com
+Visual
+Text
+Insert/edit link
+Close
+Enter the destination URL
+URL
+Link Text
+Open link in a new tab
+Or link to existing content
+Search
+No search term specified. Showing recent items.
+Search or use up and down arrow keys to select an item.
+Cancel
+----------------------------------------------------------------------------------------------------
+

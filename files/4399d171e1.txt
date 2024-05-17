@@ -1,0 +1,285 @@
+URL: https://franchisesuppliernetwork.com/fsn-members/add-content/?post_id=3788
+
+----------------------------------------------------------------------------------------------------
+
+Franchise Supplier Network
+Add Content - Franchise Supplier Network
+My Account
+My Profile
+Logout
+My Account
+My Profile
+Logout
+Submit Content
+Edit Profile
+Brand Lists
+Supplier Bootcamp
+Sponsorships
+Team Members
+SUBMIT A
+BLOG, BYLINE, OR THOUGHT LEADERSHIP ARTICLE
+Share your industry expertise, product development highlights, and brand bylines.
+SUBMIT A
+RECENT DEAL OR BRAND WIN
+When you have a big win, we want to know about it! Share when you sign a big contract or hit a major milestone.
+SUBMIT A
+CASE STUDY FROM A TOP CUSTOMER
+Help us sell you by submitting case studies that showcase your happy clients and what you do best.
+Blog
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<div class="group w-full text-token-text-primary border-b border-black/10 gizmo:border-0 dark:border-gray-900/50 gizmo:dark:border-0 bg-gray-50 gizmo:bg-transparent dark:bg-[#444654] gizmo:dark:bg-transparent" data-testid="conversation-turn-3">
+<div class="p-4 justify-center text-base md:gap-6 md:py-6 m-auto">
+<div class="flex flex-1 gap-4 text-base mx-auto md:gap-6 gizmo:gap-3 gizmo:md:px-5 gizmo:lg:px-1 gizmo:xl:px-5 md:max-w-2xl lg:max-w-[38rem] gizmo:md:max-w-3xl gizmo:lg:max-w-[40rem] gizmo:xl:max-w-[48rem] xl:max-w-3xl }">
+<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 gizmo:w-full md:gap-3 lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<div class="min-h-[20px] flex flex-col items-start gap-3 whitespace-pre-wrap break-words overflow-x-auto">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+
+In the world of retail leasing, securing favorable terms can make all the difference for your business. Before you sign, take a moment to review this comprehensive lease negotiation checklist from <a href="https://franchisesuppliernetwork.com/featured-supplier/leasecake/" target="_blank" rel="noopener">Leasecake</a>. Leasecake is a lease and location management that supports franchises, ensuring you are protected when signing any sort of lease.
+
+This guide is designed to guide you through the complexities of lease agreements, helping you understand key terms, clauses, and negotiation points that will not only protect your interests but also save you money in the long run. Ensure you're making the right decisions for your retail lease by following this strategic guide.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="p3"><strong>Reviewing the Lease Agreement</strong></p>
+
+<ul class="ul1">
+ 	<li class="li1">Get a retail real estate lawyer involved to protect your interests.</li>
+ 	<li class="li1">Carefully read through the entire lease agreement to understand its provisions, as well as its key terms including base rent, additional rent, lease duration, renewal options and security deposits. Confirm (1) all exhibits (and any documents referenced in the body of the lease) are attached to the copy of the lease you sign and (2) all blanks are either filled in appropriately or marked N/A.<span class="Apple-converted-space"> </span></li>
+ 	<li class="li1">If the lease term dates are subject to variables, make sure to include a form Rent Commencement Date Agreement as an exhibit, and add language stating that when the tenant opens for business both parties will sign off on the form document confirming the dates for the lease term.</li>
+ 	<li class="li1">Confirm the legal entity of the other party is valid.</li>
+ 	<li class="li1">Understand the type of lease you are signing (some common options are a triple net, gross or modified gross,<span class="Apple-converted-space">  </span>percentage only lease, or a combination of these types).</li>
+ 	<li class="li1">Research fair market value to ensure you aren’t overpaying. In addition, be clear on your projected sales forecast for the initial 3 years of the term when determining what you can comfortably pay in total rent.</li>
+ 	<li class="li1">Pay special attention to clauses related to maintenance and repairs to the leased premises; HVAC maintenance, repair and replacement; and common area maintenance (“CAM”) expenses. Look for and request vague language be clarified in order to avoid overpaying in the future. <span class="Apple-converted-space"> </span></li>
+</ul>
+<p class="p1"><strong>Understanding the Clauses</strong></p>
+<p class="p4">The clauses in your lease can impact everything from what you pay in total rent to what happens if you may need to terminate your lease early.<span class="Apple-converted-space">  </span>Make sure you understand them before you sign.<span class="Apple-converted-space"> </span></p>
+
+<ul class="ul1">
+ 	<li class="li4"><b>Rent adjustment clause:</b> Check to see if your rent is tied to your sales or third-party indexes. Inclusion of these types of clauses isn’t necessarily a deal breaker, but you’ll want to be aware of them. <span class="s2">Avoid consumer price index (CPI) increases as they are unpredictable and can result in significant rent increases over time.<span class="Apple-converted-space"> </span></span></li>
+</ul>
+<ul class="ul1">
+ 	<li class="li4"><b>Renewal clause</b>: <span class="s2">If well written, a </span>renewal option allows you a bit more leverage to control the leased premises at expiration of original term and to (again, if w<span class="s2">ell written</span>) renew at a set price vs. fair market value, giving you a clear picture for budgeting purposes and protecting you<span class="s2">r </span>investments.</li>
+</ul>
+<ul class="ul1">
+ 	<li class="li4"><span class="s2"><b>Assignment/Sublease</b></span><b><span class="Apple-converted-space">  </span>clause:</b> Can you sub-lease the space to another tenant if your business closes or relocates? What if you se<span class="s2">ll your business – will you be allowed to assign your lease? </span>Consider fully negotiating this clause for additional security.</li>
+</ul>
+<ul class="ul1">
+ 	<li class="li1"><b>Tenant </b><span class="s3"><b>Improvement clause: </b></span>Always ask for Tenant Improvement Allowance or a rent abatement to offset your cost of improving the leased premises. <span class="Apple-converted-space"> </span></li>
+ 	<li class="li4"><span class="s2"><b>Early </b></span><b>Termination Clause: </b>An early termination clause outlines conditions that will allow you to terminate early prior <span class="s2">to</span> the agreed upon original expiration. Make sure you understand any possible early termination penalties.<span class="s2"><span class="Apple-converted-space"> </span></span></li>
+</ul>
+<p class="p1"><strong>Negotiating Points</strong></p>
+
+<ul class="ul1">
+ 	<li class="li1"><b>Term Length:</b> Discuss the potential for lower rent in exchange for a longer lease term. Present market research to support your proposed rent. Avoid CPI increases as they are unpredictable and can result in significant rent increases over time.<span class="Apple-converted-space"> </span></li>
+ 	<li class="li1"><b>Concessions</b>: Request landlord-provided tenant improvements or rent abatements.</li>
+ 	<li class="li1"><b>CAM Charges:</b> Negotiate for more favorable terms on any common area maintenance (“CAM”) charges.<span class="Apple-converted-space">   </span></li>
+ 	<li class="li1"><b>Exclusive Use Clauses:</b> Consider requesting exclusivity in offering specific products or services. Ensure the lease protects against direct competition within the property.</li>
+ 	<li class="li1"><b>Assignment and Subletting:</b><span class="Apple-converted-space">  </span>Discuss terms for assigning the lease to another party or subletting the space. Understand landlord approval requirements for assignments or subleases.</li>
+ 	<li class="li1"><b>Admin Fees: </b>Does the lease obligate you to pay for admin fees for the property manager? Consider asking them to be removed, especially if the rent is on the high end of fair market value.<span class="Apple-converted-space"> </span></li>
+</ul>
+<p class="p1"><strong>Finalizing the Deal</strong></p>
+
+<ul class="ul1">
+ 	<li class="li1"><b>Legal Review: </b>Consult with legal counsel specializing in retail leasing to review the lease agreement and provide guidance. Address any legal concerns or recommendations raised by your attorney.</li>
+ 	<li class="li1"><b>Documenting Agreements: </b>Ensure that all negotiated changes are documented in writing and added to the lease. Verbal agreements may be valid, but in many cases they are not enforceable in the event legal action is ever needed.</li>
+ 	<li class="li1"><b>Review Final Lease:</b> Review the final lease draft to confirm that all negotiated terms are accurately reflected.</li>
+ 	<li class="li1"><b>Final Approval and Execution: </b>Coordinate with the landlord to finalize the lease agreement. Sign the lease agreement and retain copies for your records.</li>
+</ul>
+<p class="p1"><strong>Staying on Top of the Details</strong></p>
+
+<ul class="ul1">
+ 	<li class="li1"><b>Communicate:</b> Maintain ongoing communication with the landlord, broker or property manager, as needed. Make sure you receive a fully executed copy of the final agreement.</li>
+ 	<li class="li1"><b>Lease Audits: </b>Schedule periodic lease reviews to ensure ongoing compliance with terms.</li>
+ 	<li class="li1"><b>Reminders and Dates: </b>If you’re using a lease management software, all your renewal dates and other business critical dates will be entered and you will receive automated reminders so you never miss any details.</li>
+ 	<li class="li1"><b>Prepare for Renegotiation: </b>If you plan to renew in place, lease renegotiation can start up as early as 24 months before your lease expiration date. Do not give up your negotiating leverage by waiting too late to begin renegotiations.<span class="Apple-converted-space">  </span>It's more challenging to negotiate certain points when the lease is about to expire</li>
+</ul>
+Learn more about Leasecake and connect with them <a href="https://franchisesuppliernetwork.com/featured-supplier/leasecake/">here</a>!
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Recent Deal
+Iframe Link
+*
+Brand Name OR Industry Type (if you cant announce brand yet)
+Title
+*
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Number of Locations
+Why did they partner with you?
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Case Study
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<div class="group w-full text-token-text-primary border-b border-black/10 gizmo:border-0 dark:border-gray-900/50 gizmo:dark:border-0 bg-gray-50 gizmo:bg-transparent dark:bg-[#444654] gizmo:dark:bg-transparent" data-testid="conversation-turn-3">
+<div class="p-4 justify-center text-base md:gap-6 md:py-6 m-auto">
+<div class="flex flex-1 gap-4 text-base mx-auto md:gap-6 gizmo:gap-3 gizmo:md:px-5 gizmo:lg:px-1 gizmo:xl:px-5 md:max-w-2xl lg:max-w-[38rem] gizmo:md:max-w-3xl gizmo:lg:max-w-[40rem] gizmo:xl:max-w-[48rem] xl:max-w-3xl }">
+<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 gizmo:w-full md:gap-3 lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<div class="min-h-[20px] flex flex-col items-start gap-3 whitespace-pre-wrap break-words overflow-x-auto">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+
+In the world of retail leasing, securing favorable terms can make all the difference for your business. Before you sign, take a moment to review this comprehensive lease negotiation checklist from <a href="https://franchisesuppliernetwork.com/featured-supplier/leasecake/" target="_blank" rel="noopener">Leasecake</a>. Leasecake is a lease and location management that supports franchises, ensuring you are protected when signing any sort of lease.
+
+This guide is designed to guide you through the complexities of lease agreements, helping you understand key terms, clauses, and negotiation points that will not only protect your interests but also save you money in the long run. Ensure you're making the right decisions for your retail lease by following this strategic guide.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="p3"><strong>Reviewing the Lease Agreement</strong></p>
+
+<ul class="ul1">
+ 	<li class="li1">Get a retail real estate lawyer involved to protect your interests.</li>
+ 	<li class="li1">Carefully read through the entire lease agreement to understand its provisions, as well as its key terms including base rent, additional rent, lease duration, renewal options and security deposits. Confirm (1) all exhibits (and any documents referenced in the body of the lease) are attached to the copy of the lease you sign and (2) all blanks are either filled in appropriately or marked N/A.<span class="Apple-converted-space"> </span></li>
+ 	<li class="li1">If the lease term dates are subject to variables, make sure to include a form Rent Commencement Date Agreement as an exhibit, and add language stating that when the tenant opens for business both parties will sign off on the form document confirming the dates for the lease term.</li>
+ 	<li class="li1">Confirm the legal entity of the other party is valid.</li>
+ 	<li class="li1">Understand the type of lease you are signing (some common options are a triple net, gross or modified gross,<span class="Apple-converted-space">  </span>percentage only lease, or a combination of these types).</li>
+ 	<li class="li1">Research fair market value to ensure you aren’t overpaying. In addition, be clear on your projected sales forecast for the initial 3 years of the term when determining what you can comfortably pay in total rent.</li>
+ 	<li class="li1">Pay special attention to clauses related to maintenance and repairs to the leased premises; HVAC maintenance, repair and replacement; and common area maintenance (“CAM”) expenses. Look for and request vague language be clarified in order to avoid overpaying in the future. <span class="Apple-converted-space"> </span></li>
+</ul>
+<p class="p1"><strong>Understanding the Clauses</strong></p>
+<p class="p4">The clauses in your lease can impact everything from what you pay in total rent to what happens if you may need to terminate your lease early.<span class="Apple-converted-space">  </span>Make sure you understand them before you sign.<span class="Apple-converted-space"> </span></p>
+
+<ul class="ul1">
+ 	<li class="li4"><b>Rent adjustment clause:</b> Check to see if your rent is tied to your sales or third-party indexes. Inclusion of these types of clauses isn’t necessarily a deal breaker, but you’ll want to be aware of them. <span class="s2">Avoid consumer price index (CPI) increases as they are unpredictable and can result in significant rent increases over time.<span class="Apple-converted-space"> </span></span></li>
+</ul>
+<ul class="ul1">
+ 	<li class="li4"><b>Renewal clause</b>: <span class="s2">If well written, a </span>renewal option allows you a bit more leverage to control the leased premises at expiration of original term and to (again, if w<span class="s2">ell written</span>) renew at a set price vs. fair market value, giving you a clear picture for budgeting purposes and protecting you<span class="s2">r </span>investments.</li>
+</ul>
+<ul class="ul1">
+ 	<li class="li4"><span class="s2"><b>Assignment/Sublease</b></span><b><span class="Apple-converted-space">  </span>clause:</b> Can you sub-lease the space to another tenant if your business closes or relocates? What if you se<span class="s2">ll your business – will you be allowed to assign your lease? </span>Consider fully negotiating this clause for additional security.</li>
+</ul>
+<ul class="ul1">
+ 	<li class="li1"><b>Tenant </b><span class="s3"><b>Improvement clause: </b></span>Always ask for Tenant Improvement Allowance or a rent abatement to offset your cost of improving the leased premises. <span class="Apple-converted-space"> </span></li>
+ 	<li class="li4"><span class="s2"><b>Early </b></span><b>Termination Clause: </b>An early termination clause outlines conditions that will allow you to terminate early prior <span class="s2">to</span> the agreed upon original expiration. Make sure you understand any possible early termination penalties.<span class="s2"><span class="Apple-converted-space"> </span></span></li>
+</ul>
+<p class="p1"><strong>Negotiating Points</strong></p>
+
+<ul class="ul1">
+ 	<li class="li1"><b>Term Length:</b> Discuss the potential for lower rent in exchange for a longer lease term. Present market research to support your proposed rent. Avoid CPI increases as they are unpredictable and can result in significant rent increases over time.<span class="Apple-converted-space"> </span></li>
+ 	<li class="li1"><b>Concessions</b>: Request landlord-provided tenant improvements or rent abatements.</li>
+ 	<li class="li1"><b>CAM Charges:</b> Negotiate for more favorable terms on any common area maintenance (“CAM”) charges.<span class="Apple-converted-space">   </span></li>
+ 	<li class="li1"><b>Exclusive Use Clauses:</b> Consider requesting exclusivity in offering specific products or services. Ensure the lease protects against direct competition within the property.</li>
+ 	<li class="li1"><b>Assignment and Subletting:</b><span class="Apple-converted-space">  </span>Discuss terms for assigning the lease to another party or subletting the space. Understand landlord approval requirements for assignments or subleases.</li>
+ 	<li class="li1"><b>Admin Fees: </b>Does the lease obligate you to pay for admin fees for the property manager? Consider asking them to be removed, especially if the rent is on the high end of fair market value.<span class="Apple-converted-space"> </span></li>
+</ul>
+<p class="p1"><strong>Finalizing the Deal</strong></p>
+
+<ul class="ul1">
+ 	<li class="li1"><b>Legal Review: </b>Consult with legal counsel specializing in retail leasing to review the lease agreement and provide guidance. Address any legal concerns or recommendations raised by your attorney.</li>
+ 	<li class="li1"><b>Documenting Agreements: </b>Ensure that all negotiated changes are documented in writing and added to the lease. Verbal agreements may be valid, but in many cases they are not enforceable in the event legal action is ever needed.</li>
+ 	<li class="li1"><b>Review Final Lease:</b> Review the final lease draft to confirm that all negotiated terms are accurately reflected.</li>
+ 	<li class="li1"><b>Final Approval and Execution: </b>Coordinate with the landlord to finalize the lease agreement. Sign the lease agreement and retain copies for your records.</li>
+</ul>
+<p class="p1"><strong>Staying on Top of the Details</strong></p>
+
+<ul class="ul1">
+ 	<li class="li1"><b>Communicate:</b> Maintain ongoing communication with the landlord, broker or property manager, as needed. Make sure you receive a fully executed copy of the final agreement.</li>
+ 	<li class="li1"><b>Lease Audits: </b>Schedule periodic lease reviews to ensure ongoing compliance with terms.</li>
+ 	<li class="li1"><b>Reminders and Dates: </b>If you’re using a lease management software, all your renewal dates and other business critical dates will be entered and you will receive automated reminders so you never miss any details.</li>
+ 	<li class="li1"><b>Prepare for Renegotiation: </b>If you plan to renew in place, lease renegotiation can start up as early as 24 months before your lease expiration date. Do not give up your negotiating leverage by waiting too late to begin renegotiations.<span class="Apple-converted-space">  </span>It's more challenging to negotiate certain points when the lease is about to expire</li>
+</ul>
+Learn more about Leasecake and connect with them <a href="https://franchisesuppliernetwork.com/featured-supplier/leasecake/">here</a>!
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+© 2023 Copyright - FranchiseSupplierNetwork.com
+Visual
+Text
+Insert/edit link
+Close
+Enter the destination URL
+URL
+Link Text
+Open link in a new tab
+Or link to existing content
+Search
+No search term specified. Showing recent items.
+Search or use up and down arrow keys to select an item.
+Cancel
+----------------------------------------------------------------------------------------------------
+

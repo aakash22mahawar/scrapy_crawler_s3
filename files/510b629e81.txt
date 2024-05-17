@@ -1,0 +1,421 @@
+URL: https://franchisesuppliernetwork.com/fsn-members/add-content/?post_id=4141
+
+----------------------------------------------------------------------------------------------------
+
+Franchise Supplier Network
+Add Content - Franchise Supplier Network
+My Account
+My Profile
+Logout
+My Account
+My Profile
+Logout
+Submit Content
+Edit Profile
+Brand Lists
+Supplier Bootcamp
+Sponsorships
+Team Members
+SUBMIT A
+BLOG, BYLINE, OR THOUGHT LEADERSHIP ARTICLE
+Share your industry expertise, product development highlights, and brand bylines.
+SUBMIT A
+RECENT DEAL OR BRAND WIN
+When you have a big win, we want to know about it! Share when you sign a big contract or hit a major milestone.
+SUBMIT A
+CASE STUDY FROM A TOP CUSTOMER
+Help us sell you by submitting case studies that showcase your happy clients and what you do best.
+Blog
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<div class="pp-heading pp-left">
+<p class="pp-heading-prefix"><span style="font-size: 16px;"><a href="https://franchisesuppliernetwork.com/featured-supplier/woven/" target="_blank" rel="noopener">Woven</a> is the premier multi-unit business management platform for franchisee and independent owners, enabling them to manage people, operations and locations from one seamless platform. See below how the platform is pumping up franchise performance for </span><span class="title-text pp-primary-title" style="font-size: 16px;">Glow Brands’ Planet Fitness® Clubs to save time &amp; strengthen member experience through consolidated communication and policy management.</span></p>
+
+</div>
+<h3>The Numbers</h3>
+<div class="fl-col fl-node-9wpum3vn27k1 fl-col-small fl-col-small-custom-width" data-node="9wpum3vn27k1">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-pp-infobox fl-node-nez0xlfovj62 fl-animation fl-fade-right no-animation fl-animated" data-node="nez0xlfovj62" data-animation-delay=".1" data-animation-duration="1">
+<div class="fl-module-content fl-node-content">
+<div class="pp-infobox-wrap">
+<div class="pp-infobox layout-3">
+<div class="layout-3-wrapper">
+<div class="pp-heading-wrapper">
+<div class="pp-infobox-title-wrapper">
+<ul>
+ 	<li class="pp-infobox-title">40 Store Locations</li>
+ 	<li class="pp-infobox-title">More Than 600 Employees</li>
+ 	<li class="pp-infobox-title">Saved over $282,560 Annually</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pp-heading pp-left">
+<h3 class="heading-title"><span class="title-text pp-primary-title">A Unique Solution For a Unique Company</span></h3>
+</div>
+<div class="pp-sub-heading">
+
+Going to the gym can be intimidating, even if you are not new to exercise. Kueber Fitness is a franchisee of Planet Fitness and operates 40 Planet Fitness clubs.  Planet Fitness strives to provide an environment where anyone can be comfortable. Planet Fitness is one of the largest and fastest-growing fitness center franchisors and operators in the United States. With its Judgement Free Zone®, the brand hopes to enhance people’s lives and create a healthier world by advancing physical, emotional and planet health. Fulfilling its mission requires clean and safe facilities and well-trained employees.
+
+The brand has seen exponential growth over the last few years — franchisee Glow Brands broke revenue and membership records at its 40 locations in 2022.  With more people going to the gym, the fitness clubs are under more pressure to provide consistent and quality client service to every member. Planet Fitness clubs were Glow Brands’ first brand to adopt Woven, consolidating administrative functions to enhance focus on customer experience with Woven saving Glow Brands more than a quarter million dollars per year across its Planet Fitness clubs.
+
+</div>
+<div class="fl-col-group fl-node-pdq473ol95ju" data-node="pdq473ol95ju">
+<div class="fl-col fl-node-grdevixwtzb9" data-node="grdevixwtzb9">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-pp-heading fl-node-adsu8gf9hjx6" data-node="adsu8gf9hjx6">
+<div class="fl-module-content fl-node-content">
+<div class="pp-heading-content">
+<div class="pp-heading pp-left">
+<h3 class="heading-title"><span class="title-text pp-primary-title">Running from Platform to Platform</span></h3>
+</div>
+<div class="pp-sub-heading">
+
+Like many companies, Glow Brands’ Planet Fitness clubs had many systems for essential functions. Employees accessed one portal for documents and received additional information via email, not to mention physical papers. Staff also used a franchise management website and a separate platform to report maintenance issues. Audits required two points of entry — a website and a spreadsheet.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col-group fl-node-umftlwyariop fl-col-group-custom-width" data-node="umftlwyariop">
+<div class="fl-col fl-node-fb1dzr5em2js fl-col-small-custom-width" data-node="fb1dzr5em2js">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-rich-text fl-node-q2ut016ry5i9" data-node="q2ut016ry5i9">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+
+The time employees spent jumping between different programs could be used more productively for working with members, cleaning, and other essential tasks. Additionally, reporting and auditing were tedious and sometimes even outdated. Because of this, opportunities for improvement may have gone unidentified, and some issues required extended time to resolve.
+
+Communicating new policies required a game of telephone. Corporate would relay a message or policy change to general managers, who would be responsible for passing the information down the chain of command. This manual system created openings for delayed notification or even dropped communication.
+
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-pp-heading fl-node-qmb95glvki7u" data-node="qmb95glvki7u">
+<div class="fl-module-content fl-node-content">
+<div class="pp-heading-content">
+<div class="pp-heading pp-left">
+<h3 class="heading-title"><span class="title-text pp-primary-title">Lifting Club Performance through Strengthened Communication and Administration</span></h3>
+</div>
+<div class="pp-sub-heading">
+
+Glow Brands turned to Woven for a solution to its administrative platform sprawl in 2018. Woven worked with Glow Brands to create a solution combining all functions into a single location. Employees could access and acknowledge policies, manage, and monitor audits, file maintenance requests and work orders, and run reports without switching programs.
+
+Woven removes the middleman in communication. Managers no longer need to pass down information — everyone receives it through Woven at the same time. The platform also gives managers more control over their policies with the ability to adjust and distribute in the same place.
+
+</div>
+Woven removes the middleman in communication. Managers no longer need to pass down information — everyone receives it through Woven at the same time. The platform also gives managers more control over their policies with the ability to adjust and distribute in the same place.
+
+“I can send messages to every single employee within Planet Fitness in the amount of time it takes me to upload the policy and click send. This is a big win for both managers and employees,” said Smith.
+
+With this streamlined communication, employees are better prepared for emergencies and remain updated on best practices.
+
+</div>
+Easy-to-access maintenance and work order entry led to faster repairs. With a simple and intuitive interface, employees can quickly relay problems and even upload pictures. The maintenance staff can then provide instructions, order parts, and schedule technicians when necessary, and Woven keeps the lines of communication open for follow-ups.
+
+Woven’s audit feature makes general manager checklists easier to complete and send to required parties, leading to better productivity and follow-up in clubs. Executives can quickly access reports to check audit completion and identify recurring issues and successes.
+
+</div>
+<div class="pp-heading pp-left">
+<h3 class="heading-title"><span class="title-text pp-primary-title">Sprinting to the Future</span></h3>
+</div>
+<div class="pp-sub-heading">
+
+Glow Brands is conducting a tiered rollout of Woven’s scheduling function to its Planet Fitness clubs. Rather than creating schedules with worksheets and time off requests, managers can access all information in one place and automate much of the process. As soon as the schedule is done, Woven sends it out to all the employees, helping to remove issues related to people not seeing a posted paper schedule. Woven is currently working with Glow Brands to adjust its scheduling software to work with Planet Fitness’s unique 24-hour-a-day operations. Clubs already testing the feature report success.
+
+</div>
+<h3 class="pp-infobox-title">Executive Overview</h3>
+<strong>Industry</strong>: Health and Fitness
+
+<strong>Locations</strong>: 40
+
+<strong>Employees:</strong> ~600
+
+<strong>Use Cases</strong>: Communication, knowledge management, policy management, executive reporting, location audits, work orders, incident reporting.
+
+<strong>Products Used</strong>: Woven
+
+<strong>Key Results</strong>:
+<ul>
+ 	<li>Improved club cleanliness, maintenance, and safety.</li>
+ 	<li>Saved club, district, and regional managers two to six hours a week.</li>
+ 	<li>Reduced annual costs by $7,064 per location, totaling $282,560 across all of Glow Brands’ Planet Fitness clubs.</li>
+ 	<li>Streamlined policy management by eliminating manual processes.</li>
+ 	<li>Enabled faster maintenance and work order responses.</li>
+ 	<li>Facilitated more efficient and standardized communication with more than 600 employees at all locations.</li>
+ 	<li>Provided a more holistic view of club performance.</li>
+</ul>
+<strong>Key Discoveries</strong>:
+<ul>
+ 	<li>Woven eliminated the need for multiple systems and logins and created operational function access in a single platform.</li>
+ 	<li>Club cleanliness, maintenance, and safety improved due to less time spent on administrative tasks, faster response times and universal policy communication.</li>
+ 	<li>Increased efficiency created significant cost savings.</li>
+ 	<li>Messages and policies were delivered in one step, eliminating managers' need to act as a middleman.</li>
+ 	<li>Auditing helped resolve issues and identify areas for improvement.</li>
+</ul>
+</div>
+</div>
+<h3><a href="https://startwoven.com/" target="_blank" rel="noopener"><i>Learn more about Woven</i></a></h3>
+<em>Get connected with Woven <a href="https://franchisesuppliernetwork.com/featured-supplier/woven/" target="_blank" rel="noopener">here</a></em>
+
+</div>
+</div>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Recent Deal
+Iframe Link
+*
+Brand Name OR Industry Type (if you cant announce brand yet)
+Title
+*
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Number of Locations
+Why did they partner with you?
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Case Study
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<div class="pp-heading pp-left">
+<p class="pp-heading-prefix"><span style="font-size: 16px;"><a href="https://franchisesuppliernetwork.com/featured-supplier/woven/" target="_blank" rel="noopener">Woven</a> is the premier multi-unit business management platform for franchisee and independent owners, enabling them to manage people, operations and locations from one seamless platform. See below how the platform is pumping up franchise performance for </span><span class="title-text pp-primary-title" style="font-size: 16px;">Glow Brands’ Planet Fitness® Clubs to save time &amp; strengthen member experience through consolidated communication and policy management.</span></p>
+
+</div>
+<h3>The Numbers</h3>
+<div class="fl-col fl-node-9wpum3vn27k1 fl-col-small fl-col-small-custom-width" data-node="9wpum3vn27k1">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-pp-infobox fl-node-nez0xlfovj62 fl-animation fl-fade-right no-animation fl-animated" data-node="nez0xlfovj62" data-animation-delay=".1" data-animation-duration="1">
+<div class="fl-module-content fl-node-content">
+<div class="pp-infobox-wrap">
+<div class="pp-infobox layout-3">
+<div class="layout-3-wrapper">
+<div class="pp-heading-wrapper">
+<div class="pp-infobox-title-wrapper">
+<ul>
+ 	<li class="pp-infobox-title">40 Store Locations</li>
+ 	<li class="pp-infobox-title">More Than 600 Employees</li>
+ 	<li class="pp-infobox-title">Saved over $282,560 Annually</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pp-heading pp-left">
+<h3 class="heading-title"><span class="title-text pp-primary-title">A Unique Solution For a Unique Company</span></h3>
+</div>
+<div class="pp-sub-heading">
+
+Going to the gym can be intimidating, even if you are not new to exercise. Kueber Fitness is a franchisee of Planet Fitness and operates 40 Planet Fitness clubs.  Planet Fitness strives to provide an environment where anyone can be comfortable. Planet Fitness is one of the largest and fastest-growing fitness center franchisors and operators in the United States. With its Judgement Free Zone®, the brand hopes to enhance people’s lives and create a healthier world by advancing physical, emotional and planet health. Fulfilling its mission requires clean and safe facilities and well-trained employees.
+
+The brand has seen exponential growth over the last few years — franchisee Glow Brands broke revenue and membership records at its 40 locations in 2022.  With more people going to the gym, the fitness clubs are under more pressure to provide consistent and quality client service to every member. Planet Fitness clubs were Glow Brands’ first brand to adopt Woven, consolidating administrative functions to enhance focus on customer experience with Woven saving Glow Brands more than a quarter million dollars per year across its Planet Fitness clubs.
+
+</div>
+<div class="fl-col-group fl-node-pdq473ol95ju" data-node="pdq473ol95ju">
+<div class="fl-col fl-node-grdevixwtzb9" data-node="grdevixwtzb9">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-pp-heading fl-node-adsu8gf9hjx6" data-node="adsu8gf9hjx6">
+<div class="fl-module-content fl-node-content">
+<div class="pp-heading-content">
+<div class="pp-heading pp-left">
+<h3 class="heading-title"><span class="title-text pp-primary-title">Running from Platform to Platform</span></h3>
+</div>
+<div class="pp-sub-heading">
+
+Like many companies, Glow Brands’ Planet Fitness clubs had many systems for essential functions. Employees accessed one portal for documents and received additional information via email, not to mention physical papers. Staff also used a franchise management website and a separate platform to report maintenance issues. Audits required two points of entry — a website and a spreadsheet.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col-group fl-node-umftlwyariop fl-col-group-custom-width" data-node="umftlwyariop">
+<div class="fl-col fl-node-fb1dzr5em2js fl-col-small-custom-width" data-node="fb1dzr5em2js">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-rich-text fl-node-q2ut016ry5i9" data-node="q2ut016ry5i9">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+
+The time employees spent jumping between different programs could be used more productively for working with members, cleaning, and other essential tasks. Additionally, reporting and auditing were tedious and sometimes even outdated. Because of this, opportunities for improvement may have gone unidentified, and some issues required extended time to resolve.
+
+Communicating new policies required a game of telephone. Corporate would relay a message or policy change to general managers, who would be responsible for passing the information down the chain of command. This manual system created openings for delayed notification or even dropped communication.
+
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-pp-heading fl-node-qmb95glvki7u" data-node="qmb95glvki7u">
+<div class="fl-module-content fl-node-content">
+<div class="pp-heading-content">
+<div class="pp-heading pp-left">
+<h3 class="heading-title"><span class="title-text pp-primary-title">Lifting Club Performance through Strengthened Communication and Administration</span></h3>
+</div>
+<div class="pp-sub-heading">
+
+Glow Brands turned to Woven for a solution to its administrative platform sprawl in 2018. Woven worked with Glow Brands to create a solution combining all functions into a single location. Employees could access and acknowledge policies, manage, and monitor audits, file maintenance requests and work orders, and run reports without switching programs.
+
+Woven removes the middleman in communication. Managers no longer need to pass down information — everyone receives it through Woven at the same time. The platform also gives managers more control over their policies with the ability to adjust and distribute in the same place.
+
+</div>
+Woven removes the middleman in communication. Managers no longer need to pass down information — everyone receives it through Woven at the same time. The platform also gives managers more control over their policies with the ability to adjust and distribute in the same place.
+
+“I can send messages to every single employee within Planet Fitness in the amount of time it takes me to upload the policy and click send. This is a big win for both managers and employees,” said Smith.
+
+With this streamlined communication, employees are better prepared for emergencies and remain updated on best practices.
+
+</div>
+Easy-to-access maintenance and work order entry led to faster repairs. With a simple and intuitive interface, employees can quickly relay problems and even upload pictures. The maintenance staff can then provide instructions, order parts, and schedule technicians when necessary, and Woven keeps the lines of communication open for follow-ups.
+
+Woven’s audit feature makes general manager checklists easier to complete and send to required parties, leading to better productivity and follow-up in clubs. Executives can quickly access reports to check audit completion and identify recurring issues and successes.
+
+</div>
+<div class="pp-heading pp-left">
+<h3 class="heading-title"><span class="title-text pp-primary-title">Sprinting to the Future</span></h3>
+</div>
+<div class="pp-sub-heading">
+
+Glow Brands is conducting a tiered rollout of Woven’s scheduling function to its Planet Fitness clubs. Rather than creating schedules with worksheets and time off requests, managers can access all information in one place and automate much of the process. As soon as the schedule is done, Woven sends it out to all the employees, helping to remove issues related to people not seeing a posted paper schedule. Woven is currently working with Glow Brands to adjust its scheduling software to work with Planet Fitness’s unique 24-hour-a-day operations. Clubs already testing the feature report success.
+
+</div>
+<h3 class="pp-infobox-title">Executive Overview</h3>
+<strong>Industry</strong>: Health and Fitness
+
+<strong>Locations</strong>: 40
+
+<strong>Employees:</strong> ~600
+
+<strong>Use Cases</strong>: Communication, knowledge management, policy management, executive reporting, location audits, work orders, incident reporting.
+
+<strong>Products Used</strong>: Woven
+
+<strong>Key Results</strong>:
+<ul>
+ 	<li>Improved club cleanliness, maintenance, and safety.</li>
+ 	<li>Saved club, district, and regional managers two to six hours a week.</li>
+ 	<li>Reduced annual costs by $7,064 per location, totaling $282,560 across all of Glow Brands’ Planet Fitness clubs.</li>
+ 	<li>Streamlined policy management by eliminating manual processes.</li>
+ 	<li>Enabled faster maintenance and work order responses.</li>
+ 	<li>Facilitated more efficient and standardized communication with more than 600 employees at all locations.</li>
+ 	<li>Provided a more holistic view of club performance.</li>
+</ul>
+<strong>Key Discoveries</strong>:
+<ul>
+ 	<li>Woven eliminated the need for multiple systems and logins and created operational function access in a single platform.</li>
+ 	<li>Club cleanliness, maintenance, and safety improved due to less time spent on administrative tasks, faster response times and universal policy communication.</li>
+ 	<li>Increased efficiency created significant cost savings.</li>
+ 	<li>Messages and policies were delivered in one step, eliminating managers' need to act as a middleman.</li>
+ 	<li>Auditing helped resolve issues and identify areas for improvement.</li>
+</ul>
+</div>
+</div>
+<h3><a href="https://startwoven.com/" target="_blank" rel="noopener"><i>Learn more about Woven</i></a></h3>
+<em>Get connected with Woven <a href="https://franchisesuppliernetwork.com/featured-supplier/woven/" target="_blank" rel="noopener">here</a></em>
+
+</div>
+</div>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+© 2023 Copyright - FranchiseSupplierNetwork.com
+Visual
+Text
+Insert/edit link
+Close
+Enter the destination URL
+URL
+Link Text
+Open link in a new tab
+Or link to existing content
+Search
+No search term specified. Showing recent items.
+Search or use up and down arrow keys to select an item.
+Cancel
+----------------------------------------------------------------------------------------------------
+

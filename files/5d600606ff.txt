@@ -1,0 +1,387 @@
+URL: https://franchisesuppliernetwork.com/fsn-members/add-content/?post_id=4342
+
+----------------------------------------------------------------------------------------------------
+
+Franchise Supplier Network
+Add Content - Franchise Supplier Network
+My Account
+My Profile
+Logout
+My Account
+My Profile
+Logout
+Submit Content
+Edit Profile
+Brand Lists
+Supplier Bootcamp
+Sponsorships
+Team Members
+SUBMIT A
+BLOG, BYLINE, OR THOUGHT LEADERSHIP ARTICLE
+Share your industry expertise, product development highlights, and brand bylines.
+SUBMIT A
+RECENT DEAL OR BRAND WIN
+When you have a big win, we want to know about it! Share when you sign a big contract or hit a major milestone.
+SUBMIT A
+CASE STUDY FROM A TOP CUSTOMER
+Help us sell you by submitting case studies that showcase your happy clients and what you do best.
+Blog
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<section class="elementor-section elementor-top-section elementor-element elementor-element-67da9c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-particle_enable="false" data-particle-mobile-disabled="false" data-id="67da9c5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ef220b0" data-id="ef220b0" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-38bd406 elementor-widget elementor-widget-text-editor" data-id="38bd406" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+<a href="https://www.1tomplumber.com/" target="_blank" rel="noopener">1 Tom Plumber</a> is an emergency service plumbing franchise, meaning that they’re usually called to fix plumbing problems rather than installing new plumbing systems or retrofitting existing ones. Franchisees often own restoration companies, and buy a franchise territory to add emergency plumbing to their services.
+
+The initial location was founded in 2018 and started franchising in 2020; the franchise currently has 59 locations across the U.S.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section class="elementor-section elementor-top-section elementor-element elementor-element-3e7cea1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-particle_enable="false" data-particle-mobile-disabled="false" data-id="3e7cea1" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1564cb5" data-id="1564cb5" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b9bc308 elementor-widget elementor-widget-text-editor" data-id="b9bc308" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Vice President of 1 Tom Plumber, Angie Honeycutt is part of developing and tweaking the tried-and-true system they provide to franchisees—and giving them all the tools they need to succeed.  She also plays a key role in the success of the overall franchise, working closely with the sales team to maximize growth.
+
+<strong>Her mission:</strong>
+<ul>
+ 	<li>Training and onboarding new franchisees.</li>
+ 	<li>Ensuring franchisees comply with overall franchise strategy and guidelines.</li>
+ 	<li>Mapping franchise territories &amp; keeping track of all the locations</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-4169586 elementor-widget elementor-widget-heading" data-id="4169586" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The challenge</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-04eb462 elementor-widget elementor-widget-text-editor" data-id="04eb462" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+When running a franchise, mapping software is essential for drawing franchise territories, researching the competition, and even just showing potential franchisees what their options are.
+
+Angie was already using mapping software before switching to <a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener">Smappen</a>, but it just wasn’t cutting it. While it was an industry leader, it was overly complex, dense, and far from intuitive. For a Vice President who already has a lot on her plate, software that takes extra time to figure out every time you need it—unless you reach out to customer support—won’t do.
+<blockquote><em>“I used [other software] for a couple of years. But every time I would go to draw a map, I would have to look up directions on how to do it. The support was great, but I couldn’t just click on the map and start drawing a territory like I can with Smappen.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-727a5e1 elementor-widget elementor-widget-heading" data-id="727a5e1" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The solution</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-b3793c4 elementor-widget elementor-widget-heading" data-id="b3793c4" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">USER-FRIENDLY SOFTWARE</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-6da2faa elementor-widget elementor-widget-text-editor" data-id="6da2faa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+As a Vice President, Angie has to deal with a wide range of tasks in her day-to-day work. She’s helping the team refine the overall franchise model, onboarding new franchisees, and ensuring that existing franchisees have everything they need to reach their goals. Mapping franchise territories is just one of these tasks, and she doesn’t have any time to lose doing it. That’s why she chose Smappen.
+<blockquote><em>“We’re only mapping territories a few times a month. With our old software, it was complicated enough that I could just never remember how to do it. With Smappen, I’ve only reached out once or twice with questions. It’s just much easier to use from the get-go.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-41d987b elementor-widget elementor-widget-heading" data-id="41d987b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">ANALYZING DATA AT MULTIPLE LEVELS</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-f00499e elementor-widget elementor-widget-text-editor" data-id="f00499e" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Franchise territories should strike that perfect balance between meeting your franchise’s needs and giving franchisees the best chance to succeed. You can’t do that without data—and it needs a certain level of granularity. With Smappen, Angie gets exactly the data she needs.
+<blockquote><em>“We can map a territory and see all of that data. That helps us provide our franchisees with a lot more information about their territory.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-b81c6fe elementor-widget elementor-widget-heading" data-id="b81c6fe" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">SCOPING OUT THE AREA WITH POI DATA</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-2498d52 elementor-widget elementor-widget-text-editor" data-id="2498d52" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Franchise strategy doesn’t begin or end with mapping territories. Franchisees usually come to Angie with an idea of where they’d like to operate, but it’s up to 1 Tom Plumber to do the necessary research to give them a territory they’re most likely to succeed in. That involves POI (point of interest) data, which Smappen also delivers on.
+<blockquote><em>“Being able to search for anything is a nice feature. Since we’re a plumbing company, a lot of the places we target are restaurants or apartment buildings. You can put that in Smappen and easily get that information.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-cced14d elementor-widget elementor-widget-heading" data-id="cced14d" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The results</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-cd60450 elementor-widget elementor-widget-text-editor" data-id="cd60450" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+ 	<li>Color-coded maps for better organization and analysis.</li>
+ 	<li>Intuitive, user-friendly franchise mapping that just takes a few clicks.</li>
+ 	<li>Robust, accessible POI data for competitive analysis and market research.</li>
+ 	<li>Maps that work at the county and zip code level.</li>
+ 	<li>Easily shareable territories for franchisee onboarding.</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-52f1048 elementor-widget elementor-widget-heading" data-id="52f1048" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">SMAPPEN ACCORDING TO ANGIE</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-aca9ac1 elementor-blockquote--skin-boxed elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="aca9ac1" data-element_type="widget" data-widget_type="blockquote.default">
+<div class="elementor-widget-container">
+<blockquote class="elementor-blockquote">
+<p class="elementor-blockquote__content">“Smappen is very user-friendly. There’s so much data that you can pull from when you draw the maps, like population and business data. You can export everything for reporting and easily categorize your territories.” - <b>Angie Honeycutt, </b>Vice President at 1 Tom Plumber</p>
+</blockquote>
+<a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener">Smappen</a> is the quickest and easiest territory mapping software you’ve ever had 🤠
+
+<a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener"><em>Get connected with Smappen here!</em></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Recent Deal
+Iframe Link
+*
+Brand Name OR Industry Type (if you cant announce brand yet)
+Title
+*
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Number of Locations
+Why did they partner with you?
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+Case Study
+Select Resource Type
+*
+Webinar
+Podcast
+Post
+Offer
+Iframe Link
+*
+Title
+*
+Content
+Visual
+Text
+<section class="elementor-section elementor-top-section elementor-element elementor-element-67da9c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-particle_enable="false" data-particle-mobile-disabled="false" data-id="67da9c5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ef220b0" data-id="ef220b0" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-38bd406 elementor-widget elementor-widget-text-editor" data-id="38bd406" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+<a href="https://www.1tomplumber.com/" target="_blank" rel="noopener">1 Tom Plumber</a> is an emergency service plumbing franchise, meaning that they’re usually called to fix plumbing problems rather than installing new plumbing systems or retrofitting existing ones. Franchisees often own restoration companies, and buy a franchise territory to add emergency plumbing to their services.
+
+The initial location was founded in 2018 and started franchising in 2020; the franchise currently has 59 locations across the U.S.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section class="elementor-section elementor-top-section elementor-element elementor-element-3e7cea1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-particle_enable="false" data-particle-mobile-disabled="false" data-id="3e7cea1" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1564cb5" data-id="1564cb5" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b9bc308 elementor-widget elementor-widget-text-editor" data-id="b9bc308" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Vice President of 1 Tom Plumber, Angie Honeycutt is part of developing and tweaking the tried-and-true system they provide to franchisees—and giving them all the tools they need to succeed.  She also plays a key role in the success of the overall franchise, working closely with the sales team to maximize growth.
+
+<strong>Her mission:</strong>
+<ul>
+ 	<li>Training and onboarding new franchisees.</li>
+ 	<li>Ensuring franchisees comply with overall franchise strategy and guidelines.</li>
+ 	<li>Mapping franchise territories &amp; keeping track of all the locations</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-4169586 elementor-widget elementor-widget-heading" data-id="4169586" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The challenge</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-04eb462 elementor-widget elementor-widget-text-editor" data-id="04eb462" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+When running a franchise, mapping software is essential for drawing franchise territories, researching the competition, and even just showing potential franchisees what their options are.
+
+Angie was already using mapping software before switching to <a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener">Smappen</a>, but it just wasn’t cutting it. While it was an industry leader, it was overly complex, dense, and far from intuitive. For a Vice President who already has a lot on her plate, software that takes extra time to figure out every time you need it—unless you reach out to customer support—won’t do.
+<blockquote><em>“I used [other software] for a couple of years. But every time I would go to draw a map, I would have to look up directions on how to do it. The support was great, but I couldn’t just click on the map and start drawing a territory like I can with Smappen.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-727a5e1 elementor-widget elementor-widget-heading" data-id="727a5e1" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The solution</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-b3793c4 elementor-widget elementor-widget-heading" data-id="b3793c4" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">USER-FRIENDLY SOFTWARE</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-6da2faa elementor-widget elementor-widget-text-editor" data-id="6da2faa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+As a Vice President, Angie has to deal with a wide range of tasks in her day-to-day work. She’s helping the team refine the overall franchise model, onboarding new franchisees, and ensuring that existing franchisees have everything they need to reach their goals. Mapping franchise territories is just one of these tasks, and she doesn’t have any time to lose doing it. That’s why she chose Smappen.
+<blockquote><em>“We’re only mapping territories a few times a month. With our old software, it was complicated enough that I could just never remember how to do it. With Smappen, I’ve only reached out once or twice with questions. It’s just much easier to use from the get-go.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-41d987b elementor-widget elementor-widget-heading" data-id="41d987b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">ANALYZING DATA AT MULTIPLE LEVELS</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-f00499e elementor-widget elementor-widget-text-editor" data-id="f00499e" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Franchise territories should strike that perfect balance between meeting your franchise’s needs and giving franchisees the best chance to succeed. You can’t do that without data—and it needs a certain level of granularity. With Smappen, Angie gets exactly the data she needs.
+<blockquote><em>“We can map a territory and see all of that data. That helps us provide our franchisees with a lot more information about their territory.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-b81c6fe elementor-widget elementor-widget-heading" data-id="b81c6fe" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">SCOPING OUT THE AREA WITH POI DATA</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-2498d52 elementor-widget elementor-widget-text-editor" data-id="2498d52" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+
+Franchise strategy doesn’t begin or end with mapping territories. Franchisees usually come to Angie with an idea of where they’d like to operate, but it’s up to 1 Tom Plumber to do the necessary research to give them a territory they’re most likely to succeed in. That involves POI (point of interest) data, which Smappen also delivers on.
+<blockquote><em>“Being able to search for anything is a nice feature. Since we’re a plumbing company, a lot of the places we target are restaurants or apartment buildings. You can put that in Smappen and easily get that information.”</em></blockquote>
+</div>
+</div>
+<div class="elementor-element elementor-element-cced14d elementor-widget elementor-widget-heading" data-id="cced14d" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">The results</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-cd60450 elementor-widget elementor-widget-text-editor" data-id="cd60450" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+ 	<li>Color-coded maps for better organization and analysis.</li>
+ 	<li>Intuitive, user-friendly franchise mapping that just takes a few clicks.</li>
+ 	<li>Robust, accessible POI data for competitive analysis and market research.</li>
+ 	<li>Maps that work at the county and zip code level.</li>
+ 	<li>Easily shareable territories for franchisee onboarding.</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-52f1048 elementor-widget elementor-widget-heading" data-id="52f1048" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">SMAPPEN ACCORDING TO ANGIE</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-aca9ac1 elementor-blockquote--skin-boxed elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="aca9ac1" data-element_type="widget" data-widget_type="blockquote.default">
+<div class="elementor-widget-container">
+<blockquote class="elementor-blockquote">
+<p class="elementor-blockquote__content">“Smappen is very user-friendly. There’s so much data that you can pull from when you draw the maps, like population and business data. You can export everything for reporting and easily categorize your territories.” - <b>Angie Honeycutt, </b>Vice President at 1 Tom Plumber</p>
+</blockquote>
+<a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener">Smappen</a> is the quickest and easiest territory mapping software you’ve ever had 🤠
+
+<a href="https://franchisesuppliernetwork.com/featured-supplier/smappen/" target="_blank" rel="noopener"><em>Get connected with Smappen here!</em></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+Categories
+Capital & Acquisitions
+Conferences & Events
+Employee Operations
+Financial Services
+Franchise Development
+Franchise News
+Franchise Supplier Network
+Franchise Support
+Legal
+Marketing Services & Tech
+Other
+Real Estate Services & Tech
+Software & Operations Tools
+Uncategorized
+Featured Image
+Include on profile
+Validate Email
+© 2023 Copyright - FranchiseSupplierNetwork.com
+Visual
+Text
+Insert/edit link
+Close
+Enter the destination URL
+URL
+Link Text
+Open link in a new tab
+Or link to existing content
+Search
+No search term specified. Showing recent items.
+Search or use up and down arrow keys to select an item.
+Cancel
+----------------------------------------------------------------------------------------------------
+
