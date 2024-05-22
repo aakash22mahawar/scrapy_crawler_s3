@@ -34,8 +34,8 @@ class EzeePipeline:
         # Upload the file to S3
         with open(filepath, 'rb') as file_content:
             self.s3.put_object(
-                Bucket="proco-take-home-assignment-aakash",
-                Key=f'aakash_mahawar/text-files/{filename}',
+                Bucket="proco-take-home-assignment",
+                Key=f'Aakash_Mahawar/text-files/{filename}',
                 Body=file_content
             )
 
