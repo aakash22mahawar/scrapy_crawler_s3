@@ -2,4 +2,5 @@ bs4==0.0.2
 boto3==1.34.107
 Scrapy==2.8.0
 pillow==10.3.0
+twisted==22.10.0
 
