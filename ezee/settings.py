@@ -43,7 +43,7 @@ ITEM_PIPELINES = {
 
 #
 #IMAGES_STORE = "images/"
-IMAGES_STORE = "s3://proco-take-home-assignment-aakash/aakash_mahawar/"
+IMAGES_STORE = "s3://proco-take-home-assignment/Aakash_Mahawar/"
 IMAGES_STORE_S3_ACL = "public-read"
 
 
